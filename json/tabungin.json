@@ -1,0 +1,12 @@
+{
+    "barang": [
+        {
+            "id": 1,
+            "barang": "ipon 15 pro mak",
+            "target": 10000000000000,
+            "tipe": "harian",
+            "tabungan": 1000,
+            "terkumpul": 0
+        }
+    ]
+}
